@@ -46,7 +46,6 @@ On macOS, you can capture screenshots using the built-in tools ￼. For example,
 
 ⸻
 
-README.md (GitHub Submission)
 
 Tools Used
 	•	Wireshark: For live packet capture and analysis.
@@ -75,7 +74,6 @@ Protocols Identified
 	•	This .pcap file contains all captured packets and can be opened later for further analysis or evidence.
 
 
-(File naming tip: use generic names like above. Do not include any actual IP addresses or personal hostnames in the file names.)
 
 Key Learning Outcomes
 	•	Learned how to install and configure Wireshark on macOS (including granting capture permissions).
